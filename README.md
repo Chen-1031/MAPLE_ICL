@@ -12,7 +12,7 @@ Extensive experiments on real-world datasets demonstrate the effectiveness of ou
 ## Running
 
 ```
-python msICL.py --task xsum --method maple --labeled_num 20 --unlabeled_num 20 --degree 20 --seed 0 
+python MAPLE.py --task xsum --method maple --labeled_num 20 --unlabeled_num 20 --degree 20 --seed 0 
 ```
 
 ## Parameter Summary: The parameters used in `MAPLE.py` are summarized as follows:
