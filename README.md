@@ -1,6 +1,6 @@
-# MAPLE: Many-Shot Adaptive Pseudo-Labeling In-Context Learning
+# MAPLE: Many-Shot Adaptive Pseudo-Labeling for In-Context Learning
 
-This repository contains the code for the paper MAPLE: Many-Shot Adaptive Pseudo-Labeling In-Context Learning.
+This repository contains the code for the paper MAPLE: Many-Shot Adaptive Pseudo-Labeling for In-Context Learning.
 
 ![image](https://github.com/Chen-1031/MAPLE_ICL/blob/main/MAPLE.png)
 
