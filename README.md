@@ -20,9 +20,9 @@ python MAPLE.py --task xsum --method maple --labeled_num 20 --unlabeled_num 20 -
 | Parameter     | Description                                                                                      |
 |---------------|--------------------------------------------------------------------------------------------------|
 | task          | Dataset to use (default: xsum)                                                                   |
-| method        | Method to selected samples (default: random)                                                     |
+| method        | Method to select samples (default: random)                                                     |
 | labeled_num   | Number of labeled examples, i.e., size of $\mathcal{D}_L$ (default: 20)                          |
-| unlabeled_num | Nnumber of unlabeled examples for pseudo-labeling, i.e., size of $\mathcal{D}^*_U$ (default: 20) |
+| unlabeled_num | Number of unlabeled examples for pseudo-labeling, i.e., size of $\mathcal{D}^*_U$ (default: 20) |
 | degree        | Degree of the constructed graph $\mathcal{G}$ (default: 20)                                      |
 | seed          | Random seed (default: 0)                                                                         |
 
